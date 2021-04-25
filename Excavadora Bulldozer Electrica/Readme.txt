@@ -1,0 +1,1 @@
+En la carpeta "Project Outputs for Excavadora Bulldozer Electrica" se encuentra el pdf de los esquematicos y el listado de materiales.
