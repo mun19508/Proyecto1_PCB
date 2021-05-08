@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=+9V Pin=U1-30
+Added Component: Designator=E3(LM_5_08_90_02)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.weidmueller.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://catalog.weidmueller.com/catalog/Start.do?localeId=en&ObjectID=1716080000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_material"; Value = "Cu-Leg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_surface"; Value = "tinned"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulating_material"; Value = "Wemid (PA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Weidmueller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting_onto_the_PCB"; Value = "Solder connection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No_of_poles"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LM_5_08_90_02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1716080000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch_inch"; Value = "0,2 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch_mm"; Value = "5,08 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qty"; Value = "500 PCS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated_current_use_group_B_UL_1059"; Value = "15 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated_voltage_for_surge_voltage_class_pollution_degree_II_2"; Value = "630 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated_voltage_use_group_B_UL_1059"; Value = "300 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Short_text_for_material"; Value = "LM 5.08/02/90 3.5SN OR BX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Side_termination_characteristic"; Value = "closed side"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_pin_length_mm"; Value = "3,5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solid_max_H05_07_V_U"; Value = "2,5 mm²"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solid_min_H05_07_V_U"; Value = "0,2 mm²"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UL_94_flammability_rating"; Value = "V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire_cross_section_AWG_max_UL_1059"; Value = "AWG 14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire_cross_section_AWG_min_UL_1059"; Value = "AWG 24"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=E3-A2
+Added Pin To Net: NetName=NetE3_A1 Pin=E3-A1
+Added Pin To Net: NetName=NetE3_A1 Pin=U1-30
+Added Net: Name=NetE3_A1
+Added Member To Class: ClassName=[03] - SCHEMATIC Member=Component E3 1716080000
